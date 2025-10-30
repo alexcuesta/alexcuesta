@@ -1,3 +1,4 @@
+### About me
 👋 Hey! I’m Alex — a Senior Software Engineer with long experience designing and building scalable backend systems.  
 
 💻 I’ve worked on products at **New Relic**, **Hotels.com**, and **Ocado Technology**, focusing on reliability, observability, and clean architecture.
@@ -8,9 +9,9 @@
 
 ---
 
-### ☕ Fun Facts
+### Fun Facts
 🏄‍♂️ I love skateboarding, snowboarding, running, cycling and I am back to basket now 🏀 
 
 👨‍👩‍👧‍👦 Dad of twins — so I've mastered concurrency in real life too 😄 
- 
+
 🎬 Big fan of books, cinema, music, and trips.
