@@ -10,5 +10,7 @@
 
 ### ☕ Fun Facts
 🏄‍♂️ I love skateboarding, snowboarding, running, cycling and I am back to basket now 🏀 
-👨‍👩‍👧‍👦 Dad of twins — so I’ve mastered concurrency in real life too 😄  
+
+👨‍👩‍👧‍👦 Dad of twins — so I've mastered concurrency in real life too 😄 
+ 
 🎬 Big fan of books, cinema, music, and trips.
